@@ -1,5 +1,4 @@
 class Genre
-<<<<<<< HEAD
   attr_accessor :song
   attr_reader :name, :genre
 
@@ -22,6 +21,4 @@ class Genre
       song.artist
     end
   end
-=======
->>>>>>> 5321e552df5e9e30de7059a4d7a76e53dad83adc
 end
